@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Arun (pronounced _uh-roon_) Allamsetty (let's not try pronouncing that). I am your average Joe from a small town in India, Bhilai (pronounced _bhee-la-e_). I graduated with a Master's degree in Computer Science from the [School of Computing](http://www.cs.utah.edu/) at the [University of Utah](http://www.utah.edu/) in Spring '15. I am currently working at [Instructure Inc.](https://www.instructure.com/) as a Big Data Engineer.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I have never (actively) blogged before, but I intend to start now. I also plan to contribute to code to opensource projects and publish tutorials/notes. I hope I'll be active enough to be of some use to people.
