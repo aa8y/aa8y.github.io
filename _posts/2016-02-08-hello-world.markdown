@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello, World!"
 date:   2016-02-08
+comments: true
 categories: []
 ---
 So I decided to create a website to write about the things I am learning. In my opinion, it would be a great way to document everything so that I can refer back to it when I need to. I am hoping this would also be helpful to others as a side-effect.
